@@ -1,2 +1,2 @@
-# raciclica-app
+# reciclica-app
 Aplikasi
